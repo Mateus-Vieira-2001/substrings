@@ -20,3 +20,8 @@ phrase = gets.chomp
 
 substring(phrase)
 puts 'teste'
+puts 'teste'
+puts 'teste'
+puts 'teste'
+puts 'teste'
+puts 'teste'
